@@ -1,0 +1,3 @@
+var objectA = {} //This is an object literal
+
+var objectB = new Object() //This is the object constructor
